@@ -1,0 +1,12 @@
+input upper left corner:  0 2
+input lower right corner: 3 1
+upper left corner:  (0,2)
+lower right corner: (3,1)
+area rectangle:     3
+circumference:      8
+rectangle is no square
+diagonal length:    3.16228
+rectangle is correctly stored
+upper left corner:  (0,2)
+lower right corner: (1,1)
+area rectangle:     1
